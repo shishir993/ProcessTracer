@@ -1,0 +1,12 @@
+*.sdf
+*.suo
+ipch/*
+ipch
+Debug/*
+Debug
+Release/*
+Release
+ProcessTracer/Debug/*
+ProcessTracer/Debug
+ProcessTracer/Release/*
+ProcessTracer/Release

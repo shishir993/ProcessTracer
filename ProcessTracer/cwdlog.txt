@@ -1,0 +1,124 @@
+[INFO][23:02:50.075]Logger initialized
+[TRCE][23:02:50.078]WndProc() Initialization done
+[INFO][23:02:51.951]Enumerated 111 processes
+[EROR][23:02:51.951]Error reading proc name for 0 0
+[EROR][23:02:51.951]Error reading proc name for 4 5
+[EROR][23:02:51.951]Error reading proc name for 500 5
+[EROR][23:02:51.951]Error reading proc name for 764 5
+[EROR][23:02:51.951]Error reading proc name for 864 5
+[EROR][23:02:51.951]Error reading proc name for 888 5
+[EROR][23:02:51.951]Error reading proc name for 936 5
+[EROR][23:02:51.951]Error reading proc name for 984 5
+[EROR][23:02:51.951]Error reading proc name for 992 5
+[EROR][23:02:51.951]Error reading proc name for 1000 5
+[EROR][23:02:51.951]Error reading proc name for 708 5
+[EROR][23:02:51.951]Error reading proc name for 748 5
+[EROR][23:02:51.951]Error reading proc name for 716 5
+[EROR][23:02:51.951]Error reading proc name for 1112 5
+[EROR][23:02:51.951]Error reading proc name for 1152 5
+[EROR][23:02:51.951]Error reading proc name for 1192 5
+[EROR][23:02:51.951]Error reading proc name for 1228 5
+[EROR][23:02:51.951]Error reading proc name for 1316 5
+[EROR][23:02:51.951]Error reading proc name for 1396 5
+[EROR][23:02:51.951]Error reading proc name for 1540 5
+[EROR][23:02:51.951]Error reading proc name for 1548 5
+[EROR][23:02:51.951]Error reading proc name for 1580 5
+[EROR][23:02:51.951]Error reading proc name for 1608 5
+[EROR][23:02:51.951]Error reading proc name for 1652 5
+[EROR][23:02:51.951]Error reading proc name for 1692 5
+[EROR][23:02:51.951]Error reading proc name for 1960 5
+[EROR][23:02:51.951]Error reading proc name for 2008 5
+[EROR][23:02:51.951]Error reading proc name for 1076 5
+[EROR][23:02:51.951]Error reading proc name for 1336 5
+[EROR][23:02:51.951]Error reading proc name for 1484 5
+[EROR][23:02:51.951]Error reading proc name for 1792 5
+[EROR][23:02:51.951]Error reading proc name for 1872 5
+[EROR][23:02:51.952]Error reading proc name for 1956 5
+[EROR][23:02:51.952]Error reading proc name for 2068 5
+[EROR][23:02:51.952]Error reading proc name for 2308 5
+[EROR][23:02:51.952]Error reading proc name for 2436 5
+[EROR][23:02:51.952]Error reading proc name for 2456 5
+[EROR][23:02:51.952]Error reading proc name for 2496 5
+[EROR][23:02:51.952]Error reading proc name for 2580 5
+[EROR][23:02:51.952]Error reading proc name for 2616 5
+[EROR][23:02:51.952]Error reading proc name for 2796 5
+[EROR][23:02:51.952]Error reading proc name for 2828 5
+[EROR][23:02:51.952]Error reading proc name for 3000 299
+[EROR][23:02:51.952]Error reading proc name for 3008 299
+[EROR][23:02:51.952]Error reading proc name for 2132 299
+[EROR][23:02:51.952]Error reading proc name for 884 5
+[EROR][23:02:51.952]Error reading proc name for 3048 299
+[EROR][23:02:51.952]Error reading proc name for 3084 299
+[EROR][23:02:51.952]Error reading proc name for 3092 299
+[EROR][23:02:51.952]Error reading proc name for 3112 299
+[EROR][23:02:51.952]Error reading proc name for 3312 299
+[INFO][23:02:51.952] 3340 FF_Protection.exe
+[EROR][23:02:51.952]Error reading proc name for 3356 299
+[EROR][23:02:51.952]Error reading proc name for 3364 299
+[EROR][23:02:51.952]Error reading proc name for 3412 299
+[INFO][23:02:51.952] 3464 NvTmru.exe
+[INFO][23:02:51.952] 3660 TrueCrypt.exe
+[EROR][23:02:51.952]Error reading proc name for 3776 299
+[EROR][23:02:51.952]Error reading proc name for 4008 299
+[EROR][23:02:51.952]Error reading proc name for 3396 299
+[INFO][23:02:51.952] 3428 avp.exe
+[EROR][23:02:51.952]Error reading proc name for 3388 299
+[INFO][23:02:51.952] 3964 iTunesHelper.exe
+[EROR][23:02:51.952]Error reading proc name for 2924 5
+[EROR][23:02:51.952]Error reading proc name for 3888 5
+[EROR][23:02:51.952]Error reading proc name for 4308 5
+[EROR][23:02:51.952]Error reading proc name for 4360 5
+[EROR][23:02:51.952]Error reading proc name for 4660 5
+[EROR][23:02:51.952]Error reading proc name for 5104 5
+[EROR][23:02:51.952]Error reading proc name for 3200 5
+[EROR][23:02:51.952]Error reading proc name for 4284 5
+[EROR][23:02:51.952]Error reading proc name for 4560 5
+[EROR][23:02:51.952]Error reading proc name for 3216 5
+[EROR][23:02:51.952]Error reading proc name for 5028 5
+[EROR][23:02:51.953]Error reading proc name for 4272 5
+[EROR][23:02:51.953]Error reading proc name for 5212 5
+[EROR][23:02:51.953]Error reading proc name for 5132 5
+[EROR][23:02:51.953]Error reading proc name for 3372 5
+[INFO][23:02:51.953] 6620 vmplayer.exe
+[INFO][23:02:51.953] 2756 vmware-unity-helper.exe
+[EROR][23:02:51.953]Error reading proc name for 2564 5
+[EROR][23:02:51.953]Error reading proc name for 4796 5
+[EROR][23:02:51.953]Error reading proc name for 1304 5
+[EROR][23:02:51.953]Error reading proc name for 6324 5
+[EROR][23:02:51.953]Error reading proc name for 1556 5
+[INFO][23:02:51.953] 7012 firefox.exe
+[EROR][23:02:51.953]Error reading proc name for 4780 299
+[EROR][23:02:51.953]Error reading proc name for 5244 299
+[EROR][23:02:51.953]Error reading proc name for 4256 299
+[INFO][23:02:51.953] 5216 vidalia.exe
+[INFO][23:02:51.953] 8152 tor.exe
+[EROR][23:02:51.953]Error reading proc name for 5584 299
+[INFO][23:02:51.953] 6768 tbb-firefox.exe
+[EROR][23:02:51.953]Error reading proc name for 2336 299
+[EROR][23:02:51.954]Error reading proc name for 7664 299
+[INFO][23:02:51.954] 4836 MSBuild.exe
+[EROR][23:02:51.954]Error reading proc name for 4912 299
+[INFO][23:02:51.954] 2020 mspdbsrv.exe
+[INFO][23:02:51.954] 5732 cmd.exe
+[EROR][23:02:51.954]Error reading proc name for 3800 299
+[INFO][23:02:51.954] 1088 sh.exe
+[INFO][23:02:51.954] 5532 plugin-container.exe
+[INFO][23:02:51.954] 5776 FlashPlayerPlugin_11_8_800_94.exe
+[INFO][23:02:51.954] 7784 FlashPlayerPlugin_11_8_800_94.exe
+[INFO][23:02:51.955] 7652 notepad++.exe
+[EROR][23:02:51.955]Error reading proc name for 6252 299
+[INFO][23:02:51.955] 2256 devenv.exe
+[INFO][23:02:51.955] 5624 VCPkgSrv.exe
+[INFO][23:02:51.955] 7612 VCPkgSrv.exe
+[INFO][23:02:51.955] 2752 ProcessTracer.exe
+[EROR][23:02:51.955]Error reading proc name for 5852 299
+[EROR][23:02:54.116]Unable to open active
+[TRCE][23:03:02.647]WD thread: Created debug thread. Waiting for init ack...
+[TRCE][23:03:25.365]dwDebugThreadEntry(): Received TERM event from watch dog thread
+[TRCE][23:03:25.453]fProcessDebugEvtLoop() returned FALSE...
+[TRCE][23:03:25.454]dwDebugThreadEntry(): Out of debug event loop...
+[TRCE][23:03:25.454]WatchDogThreadEntry(): DebugThread terminated
+[TRCE][23:03:27.950]vOnDebuggerExit(): Waiting for 3s for watch dog thread to exit
+[TRCE][23:03:27.950]Watchdog: Exiting with success...
+[TRCE][23:03:27.951]CWinDebugger closing. I'll be back...
+[INFO][23:03:27.951]Logger terminating
